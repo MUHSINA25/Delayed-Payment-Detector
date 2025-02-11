@@ -21,17 +21,6 @@ The model uses invoice-related data, including:
 - **Invoice details** such as amount and customer-related features
 - **Target Variable**: `Delayed_Payment` (1 if payment is delayed, 0 otherwise)
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/MUHSINA25/Delayed-Payment-Detector.git
-   cd Delayed-Payment-Detector
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
